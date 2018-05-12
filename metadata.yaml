@@ -18,6 +18,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Mary_Eleanor_Wilkins_Freeman
 description: Letitia unlocks a little green door at her great-aunt Peggy's house,
   which transports her back in time to when her great-great-great grandparents lived.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17887#The-Green-Door
 gutenberg_issued: '2006-03-01'
 gutenberg_type: Text
 identifiers:
