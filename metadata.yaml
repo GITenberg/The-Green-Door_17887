@@ -1,0 +1,35 @@
+_repo: The-Green-Door_17887
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Freeman, Mary Eleanor Wilkins
+    aliases:
+    - Freeman, Mary E. Wilkins (Mary Eleanor Wilkins)
+    - Wilkins, Mary Ella
+    - Wilkins, Mary Eleanor
+    - Wilkins, Mary E. (Mary Eleanor)
+    birthdate: 1852
+    deathdate: 1930
+    gutenberg_agent_id: '495'
+    url: http://www.gutenberg.org/2009/agents/495
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Eleanor_Wilkins_Freeman
+description: Letitia unlocks a little green door at her great-aunt Peggy's house,
+  which transports her back in time to when her great-great-great grandparents lived.
+gutenberg_issued: '2006-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17887'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcsh 'Time travel -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+title: The Green Door
+url: http://www.gutenberg.org/ebooks/17887
